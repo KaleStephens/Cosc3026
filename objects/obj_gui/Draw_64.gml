@@ -1,4 +1,5 @@
 myhealth = obj_player.hp;
+money = obj_gui.money
 enemies = instance_number(obj_enemy);
 
 

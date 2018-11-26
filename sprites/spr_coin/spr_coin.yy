@@ -2,7 +2,7 @@
     "id": "40ad1083-3d0b-4958-bd50-e9b6bfb8ea6a",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sprite10",
+    "name": "spr_coin",
     "For3D": false,
     "HTile": false,
     "VTile": false,
