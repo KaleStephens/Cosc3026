@@ -1,3 +1,3 @@
 hp = 3;
 
-cooldown = 100;
+cooldown = 50;

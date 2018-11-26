@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "40ad1083-3d0b-4958-bd50-e9b6bfb8ea6a",
+            "Value": {
+                "id": "216e4f92-bd19-4ee3-8589-46e444cefead",
+                "resourcePath": "sprites\\sprite10\\sprite10.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "44089e1f-1515-4762-a0e8-703317897e06",
             "Value": {
                 "id": "692013dd-ebff-41e3-b9ae-674be81dae5f",
@@ -191,6 +199,14 @@
             }
         },
         {
+            "Key": "9d0cfaba-885e-47cd-ae25-46c9431abea6",
+            "Value": {
+                "id": "435bc104-d044-4e72-a9f5-53a80e2d4fbf",
+                "resourcePath": "objects\\obj_coin\\obj_coin.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "5fe0e7c1-c64d-465e-9ec9-c37377e66baa",
@@ -204,6 +220,22 @@
                 "id": "7bb77116-54d8-4e91-bf61-289156800b69",
                 "resourcePath": "objects\\obj_spawner\\obj_spawner.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "aafad193-b712-45d9-8f0b-8af68fef6f96",
+            "Value": {
+                "id": "63807ecc-becb-4cd6-8e04-1ef1b06c6419",
+                "resourcePath": "objects\\obj_gui\\obj_gui.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ad2b0c0e-629e-4c15-90f8-95f3420b79b8",
+            "Value": {
+                "id": "a699e9af-3243-4263-a19f-acda3991ae4d",
+                "resourcePath": "sprites\\sprite11\\sprite11.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -300,6 +332,14 @@
                 "id": "c2573a7f-7f83-4291-92aa-4042fd17da3a",
                 "resourcePath": "sprites\\spr_woodwall\\spr_woodwall.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e39ce52a-d73e-487f-943d-da96d9a74e93",
+            "Value": {
+                "id": "1b210d7c-7498-4ee4-901a-ab8babbe707d",
+                "resourcePath": "objects\\obj_wood\\obj_wood.yy",
+                "resourceType": "GMObject"
             }
         },
         {
