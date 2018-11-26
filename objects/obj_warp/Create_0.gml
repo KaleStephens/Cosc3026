@@ -1,5 +1,5 @@
 /// @Initialize
 
-targetRoom = room2;
+targetRoom = "none";
 targetX = 0;
 targetY = 0;

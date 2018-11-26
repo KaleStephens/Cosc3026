@@ -36,6 +36,9 @@ cooldown += -1;
 
 if(hp < 1)
 {
-	//instance_destroy();
-	game_end();
+	instance_destroy(obj_gui);
+	instance_destroy();
+	room_goto(rDeath);
+
+	
 }

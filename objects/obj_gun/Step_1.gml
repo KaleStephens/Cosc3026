@@ -7,7 +7,7 @@ key_shoot = keyboard_check(vk_space);
 firingdelay = firingdelay -1;
 if (mouse_check_button(mb_left) || key_shoot) && (firingdelay < 0){
 
-	firingdelay = 5;
+	firingdelay = 20;
 	with(instance_create_layer(x,y,"Bullets",obj_bullet)){
 		
 		speed = 25;
