@@ -1,3 +1,3 @@
 cooldown = 0;
-mvspd = 4;
+mvspd = 3;
 hp = 100;
