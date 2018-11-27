@@ -37,6 +37,7 @@ cooldown += -1;
 if(hp < 1)
 {
 	instance_destroy(obj_gui);
+	instance_destroy(obj_gun);
 	instance_destroy();
 	instance_destroy(obj_broadcast);
 	room_goto(rDeath);
