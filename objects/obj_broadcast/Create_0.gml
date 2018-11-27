@@ -7,3 +7,4 @@ flag = false;
 
 room1string = "Kill all enemies and spawners to progress";
 room2string = "Buy something from the shop";
+room3string = "Kill all the enemies to open the bridge";

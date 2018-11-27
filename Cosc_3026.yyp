@@ -79,6 +79,22 @@
             }
         },
         {
+            "Key": "2a714adb-06ec-4552-8649-039b87dee1ec",
+            "Value": {
+                "id": "69a9f400-d25b-414c-b3cf-40debab2093a",
+                "resourcePath": "rooms\\rWin\\rWin.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "33eb7965-f353-4559-a140-e15d623f355e",
+            "Value": {
+                "id": "ef1b1cd1-4ff6-437d-a50d-b85a2912ec11",
+                "resourcePath": "objects\\obj_winmenu\\obj_winmenu.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3522a8a4-d19e-488b-a63f-1b20eb73c376",
             "Value": {
                 "id": "d51de02b-af41-4ea2-9cf0-b30a1f32e0a8",

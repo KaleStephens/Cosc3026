@@ -7,3 +7,4 @@ money = 0;
 
 gui_width = obj_camera.view_w_half*2;
 gui_height = obj_camera.view_h_half*2;
+

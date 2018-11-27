@@ -8,6 +8,7 @@ if(obj_gui.myscore >= 1){
 	room1string = "";
 }
 
+
 if(currentroom == room1){ //&& f/ag == false){
 
 	//flag = true;
@@ -19,5 +20,11 @@ if(currentroom == room1){ //&& f/ag == false){
 if(currentroom == room2){
 
 	draw_text(gui_width/2 - 90,gui_height/2 + 100, room2string);
+	
+}
+
+if(currentroom == room3){
+
+	draw_text(gui_width/2 - 90,gui_height/2 + 200, room3string);
 	
 }

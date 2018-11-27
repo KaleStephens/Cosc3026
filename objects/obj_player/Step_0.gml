@@ -38,6 +38,7 @@ if(hp < 1)
 {
 	instance_destroy(obj_gui);
 	instance_destroy();
+	instance_destroy(obj_broadcast);
 	room_goto(rDeath);
 
 	
